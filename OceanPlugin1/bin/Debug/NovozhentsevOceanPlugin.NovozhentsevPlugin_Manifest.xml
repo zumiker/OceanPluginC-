@@ -1,0 +1,11 @@
+<Deployment>
+  <Files>
+    <File Name="NovozhentsevOceanPlugin.NovozhentsevPlugin_Manifest.xml" />
+    <File Name="OceanPlugin1.dll" />
+    <File Name="OceanPlugin1.pdb" />
+    <File Name="Slb.Ocean.Petrel.UI.Controls.dll" />
+    <File Name="Slb.Ocean.Petrel.UI.Controls.xml" />
+    <File Name="Slb.Ocean.Petrel.UI.Visualization3D.dll" />
+    <File Name="Slb.Ocean.Petrel.UI.Visualization3D.xml" />
+  </Files>
+</Deployment>

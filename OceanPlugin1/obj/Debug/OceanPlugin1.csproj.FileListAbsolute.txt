@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\nov_1\OceanPlugin1\OceanPlugin1\bin\Debug\OceanPlugin1.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\nov_1\OceanPlugin1\OceanPlugin1\bin\Debug\OceanPlugin1.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\nov_1\OceanPlugin1\OceanPlugin1\obj\Debug\OceanPlugin1.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\nov_1\OceanPlugin1\OceanPlugin1\obj\Debug\OceanPlugin1.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\nov_1\OceanPlugin1\OceanPlugin1\obj\Debug\OceanPlugin1.pdb
+C:\Users\Компьютер\Desktop\OceanPlugin1\OceanPlugin1\obj\Debug\OceanPlugin1.dll
+C:\Users\Компьютер\Desktop\OceanPlugin1\OceanPlugin1\bin\Debug\OceanPlugin1.dll
+C:\Users\Компьютер\Desktop\OceanPlugin1\OceanPlugin1\bin\Debug\OceanPlugin1.pdb
+C:\Users\Компьютер\Desktop\OceanPlugin1\OceanPlugin1\obj\Debug\OceanPlugin1.pdb
+C:\Users\Компьютер\Desktop\OceanPlugin1\OceanPlugin1\obj\Debug\OceanPlugin1.csproj.GenerateResource.Cache
+C:\Users\Компьютер\Desktop\OceanPlugin1\OceanPlugin1\obj\Debug\NovozhentsevOceanPlugin.NovozhentsevLab2WorkstepUI.resources
+C:\Users\Компьютер\Desktop\OceanPlugin1\OceanPlugin1\bin\Debug\Slb.Ocean.Petrel.UI.Controls.dll
+C:\Users\Компьютер\Desktop\OceanPlugin1\OceanPlugin1\bin\Debug\Slb.Ocean.Petrel.UI.Controls.xml
+C:\Users\Компьютер\Desktop\OceanPlugin1\OceanPlugin1\bin\Debug\Slb.Ocean.Petrel.UI.Visualization3D.dll
+C:\Users\Компьютер\Desktop\OceanPlugin1\OceanPlugin1\bin\Debug\Slb.Ocean.Petrel.UI.Visualization3D.xml

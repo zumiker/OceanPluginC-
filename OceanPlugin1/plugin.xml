@@ -1,0 +1,26 @@
+<InstalledPlugins>
+  <Plugin>
+  <Name>NovozhentsevPlugin</Name>
+  <Contact>nvad@list.ru</Contact>
+  <PluginTypeName>NovozhentsevOceanPlugin.NovozhentsevPlugin, OceanPlugin1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</PluginTypeName>
+  <PluginUri>http://www.pluginuri.info/</PluginUri>
+  <PluginId>://NovozhentsevOceanPlugin.NovozhentsevPlugin/1.0.0.0</PluginId>
+  <Trust PublicKeyToken="">Default</Trust>
+  <ReleaseDate>2015-05-02</ReleaseDate>
+  <Author>Novozhentsev Vadim</Author>
+  <AppVersion>Unknown</AppVersion>
+  <Modules>
+    <Module TypeName="NovozhentsevOceanPlugin.NovozhentsevModule, OceanPlugin1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      
+    </Module>
+  </Modules>
+  <Assemblies>
+    <Assembly Name="OceanPlugin1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    <Assembly Name="Slb.Ocean.Petrel.UI.Controls, Version=13.1.0.0, Culture=neutral, PublicKeyToken=da9605198f529641" />
+    <Assembly Name="Slb.Ocean.Petrel.UI.Visualization3D, Version=13.1.0.0, Culture=neutral, PublicKeyToken=14ef4a483ef6a64b" />
+  </Assemblies>
+  
+  <StartMode>Startup</StartMode>
+  <StartupAction>None</StartupAction>
+</Plugin>
+</InstalledPlugins>
